@@ -1,0 +1,16 @@
+# Archivos binarios y ejecutables
+*.o
+*.a
+*.so
+minishell
+
+# Archivos del SO
+.DS_Store
+Thumbs.db
+
+# Archivos del editor
+.vscode/ 
+.idea/ 
+
+# Archivos de la biblioteca de 42 (si la tienes como subcarpeta)
+libft/libft.a
